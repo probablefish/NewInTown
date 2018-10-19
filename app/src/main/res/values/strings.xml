@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">New In Town</string>
+
+    <string name="crime_card_header">Recent crimes near here</string>
+    <string name="crime_card_total_label">Total number of crimes in </string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="coffee_card_header">Need coffeeShop?</string>
+</resources>
