@@ -7,4 +7,5 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
     <string name="coffee_card_header">Need coffeeShop?</string>
+    <string name="github_sync_test">Test string</string>
 </resources>
